@@ -2,7 +2,7 @@
 This is a sample Ruby on Rails application that demonstrates a basic implementation of a product review system. Users can create products, leave reviews, and view reviews for a particular product. The application also allows users to delete their own reviews and view their favorite products based on the average star rating of their reviews.
 
 ##  Domain/Entity Relationship Diagram
-![My Image](images/image.png)
+![My Image](./assets/Reviews_Users_Products.png)
 
 ## Setup
 To run this application, you will need to have Ruby and Ruby on Rails installed on your machine. Once you have those installed, follow these steps:
