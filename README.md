@@ -10,7 +10,7 @@ To run this application, you will need to have Ruby and Ruby on Rails installed 
 1. Clone the repository to your local machine using the command git clone https://github.com/Wattima/product_reviews.git.
 2. Navigate to the project directory using the command cd product_reviews.
 3. Run bundle install to install all required dependencies.
-4. Run rake db:create to create the database.
+4. Run rake db:create_migration to create the migrations.
 5. Run rake db:migrate to run the database migrations.
 6. Run rake db:seed to seed the database with sample data.
 7. Use rake console to test the app's functionality.
