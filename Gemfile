@@ -32,3 +32,5 @@ group :test do
 end
 
 gem 'faker'
+
+gem "rerun"
