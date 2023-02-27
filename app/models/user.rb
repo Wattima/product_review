@@ -4,6 +4,7 @@ class User < ActiveRecord::Base
    
     def favorite_product
     self.reviews.order(:star_rating).last.product
+    # puts "Hello"
     end
    
 end

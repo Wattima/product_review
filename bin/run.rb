@@ -14,9 +14,12 @@ p4 = Product.find(4)
 p5 = Product.find(5)
 
 p1.print_all_reviews
+p2.average_rating
 
 r1 = Review.find(1)
 r2 = Review.find(2)
 r3 = Review.find(3)
 r4 = Review.find(4)
 r5 = Review.find(5)
+
+r1.print_review
